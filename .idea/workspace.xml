@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c651bbb5-5922-4005-807e-b310cb654918" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shivam-GitLab&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shivam-GitLab/Core-Java-Mastery.git&quot;,
+    &quot;accountId&quot;: &quot;57116419-6767-456a-8c45-c5fe81821b00&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ze5ehAaLndgUHaKQnIj8IkiNhu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoxExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java8Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamDemo01.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ide.FileNotInSourceRootChecker.no.check&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;S:/Java Mastery/36 Master Java Streams/Java Streams&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="S:\Java Mastery\36 Master Java Streams\Java Streams" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="S:\Java Mastery\32 Java Multithreading\Multi-Threading\src" />
+      <recent name="S:\Core Java Mastery\32 Java Multithreading" />
+      <recent name="S:\Core Java Mastery\34 Java Generics Explained" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c651bbb5-5922-4005-807e-b310cb654918" name="Changes" comment="" />
+      <created>1752078798141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752078798141</updated>
+      <workItem from="1752078801370" duration="53000" />
+      <workItem from="1752083332429" duration="890000" />
+      <workItem from="1752148613429" duration="291000" />
+      <workItem from="1752148949790" duration="616000" />
+      <workItem from="1753034259961" duration="689000" />
+      <workItem from="1753074021479" duration="10000" />
+      <workItem from="1754977017108" duration="1772000" />
+      <workItem from="1755520310529" duration="962000" />
+      <workItem from="1755876157457" duration="94000" />
+      <workItem from="1755947820158" duration="1217000" />
+      <workItem from="1758267599653" duration="667000" />
+      <workItem from="1758287829908" duration="18000" />
+      <workItem from="1758478727213" duration="257000" />
+      <workItem from="1758478989815" duration="41000" />
+      <workItem from="1758524831970" duration="98000" />
+      <workItem from="1758775486107" duration="2643000" />
+      <workItem from="1758806069223" duration="1761000" />
+      <workItem from="1758873941176" duration="6877000" />
+      <workItem from="1758897490913" duration="603000" />
+      <workItem from="1758970698202" duration="5691000" />
+      <workItem from="1761046939744" duration="724000" />
+      <workItem from="1761297526569" duration="23000" />
+      <workItem from="1761389352174" duration="104000" />
+      <workItem from="1761389482969" duration="185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

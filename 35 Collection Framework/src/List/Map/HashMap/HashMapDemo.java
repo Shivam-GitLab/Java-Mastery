@@ -12,17 +12,26 @@ public class HashMapDemo {
 //        map.put(null,"Sam"); // single null contain
 //        map.put(null,"Sa"); // single null contain
         System.out.println(map);
+        for (Map.Entry<Integer, String> integerStringEntry : map.entrySet()) {
+            
+        }
 
+
+        System.out.println("Java 8 => ");
+        map.forEach((key, value) -> {
+            System.out.println("Key: " + key + ", Value: " + value);
+        });
+        System.out.println("End");
         String student = map.get(31);
         System.out.println(student);
         String s = map.get(69);
         System.out.println(s);
 
-        System.out.println(map.containsKey(2));
-        System.out.println(map.containsValue("Shubham"));
-        Set<Integer> keys   = map.keySet();
+        System.out.println("containsKey = 2 = "+map.containsKey(2));
+        System.out.println("containsValue = Shubham ="+map.containsValue("Shubham"));
+//        Set<Integer> keys   = map.keySet(); // Exaplin
 //        for (int i : keys) {
-        for (int i : map.keySet()) {
+        for (int i : map.keySet()) { // SHort int i : map.keySet()
             System.out.println(map.get(i));
         }
 

@@ -8,9 +8,17 @@ public class Solution {
         }
         System.out.println("Good Job!");
     }
+//21 : 57
 
     public static int divide(int a, int b) {
-        // return a / b;
+//         return a / b;
+//        Program will crash dring runtime errors
+       /*  Output = Runtime Error
+                 10
+        100
+        Exception in thread "main" java.lang.ArithmeticException: / by zero
+        at Solution.divide(Solution.java:13)
+        at Solution.main(Solution.java:7)*/
 
         try{
             return a / b;

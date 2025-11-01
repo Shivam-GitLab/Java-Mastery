@@ -8,25 +8,26 @@ public class Solution {
         }
         System.out.println("Good Job!");
     }
-//21 : 57
+    // ===============
 
     public static int divide(int a, int b) {
-//         return a / b;
-//        Program will crash dring runtime errors
-       /*  Output = Runtime Error
-                 10
-        100
-        Exception in thread "main" java.lang.ArithmeticException: / by zero
-        at Solution.divide(Solution.java:13)
-        at Solution.main(Solution.java:7)*/
+        // return a / b;
+        // Program will crash dring runtime errors
+        /*
+         * Output = Runtime Error
+         * 10
+         * 100
+         * Exception in thread "main" java.lang.ArithmeticException: / by zero
+         * at Solution.divide(Solution.java:13)
+         * at Solution.main(Solution.java:7)
+         */
 
-        try{
+        try {
             return a / b;
-        }catch(ArithmeticException e){
+        } catch (ArithmeticException e) {
             System.out.println("Not");
             return -1;
-        }
-        finally{
+        } finally {
             System.out.println("Terminated");
         }
     }

@@ -1,8 +1,8 @@
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.*;
-public class ThrowsDemo {
+
+public class ThrowsDemo04 {
     public static void main(String[] args) throws IOException {
         method2();
         System.out.println("Hello");

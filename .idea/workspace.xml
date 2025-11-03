@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c651bbb5-5922-4005-807e-b310cb654918" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28 Master Exceptions in Java/ThrowsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/28 Master Exceptions in Java/ThrowsDemo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Java Mastery/ThrowsDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrList.executor": "Run",
+    "Application.BankAccount.executor": "Run",
     "Application.BoxExample.executor": "Run",
     "Application.FileFound.executor": "Run",
     "Application.HashMapDemo.executor": "Run",
@@ -75,7 +76,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -139,7 +140,8 @@
       <workItem from="1762078116330" duration="715000" />
       <workItem from="1762079369601" duration="2039000" />
       <workItem from="1762084616085" duration="2289000" />
-      <workItem from="1762102311449" duration="1428000" />
+      <workItem from="1762102311449" duration="5100000" />
+      <workItem from="1762189357890" duration="119000" />
     </task>
     <servers />
   </component>

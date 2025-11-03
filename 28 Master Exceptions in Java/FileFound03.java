@@ -3,6 +3,7 @@ import java.io.FileReader;
 
 public class FileFound03 {
     public static void main(String[] args) throws FileNotFoundException {
+        //
         FileReader fileReader = new FileReader("hlo.txt");
      /*   java: unreported exception java.io.FileNotFoundException;
         must be caught or declared to be thrown*/

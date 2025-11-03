@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c651bbb5-5922-4005-807e-b310cb654918" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core Java Mastery/ThrowsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 Master Exceptions in Java/FileFound03.java" beforeDir="false" afterPath="$PROJECT_DIR$/28 Master Exceptions in Java/FileFound03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +140,7 @@
       <workItem from="1762079369601" duration="2039000" />
       <workItem from="1762084616085" duration="2289000" />
       <workItem from="1762102311449" duration="5100000" />
-      <workItem from="1762189357890" duration="119000" />
+      <workItem from="1762189357890" duration="187000" />
     </task>
     <servers />
   </component>

@@ -128,6 +128,8 @@ public class Java8Demo {
         printList.accept(list);
         System.out.println();
 
+
+
   /*      4. Supplier
         Represents a supplier of results.
         Takes no input but produces a result.

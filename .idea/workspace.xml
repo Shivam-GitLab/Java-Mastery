@@ -5,7 +5,159 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c651bbb5-5922-4005-807e-b310cb654918" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 Install Java OpenJDK on Windows 11/Install.java" beforeDir="false" afterPath="$PROJECT_DIR$/01 Install Java OpenJDK on Windows 11/Install.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 What is JDK, JVM, JRE/JDK.java" beforeDir="false" afterPath="$PROJECT_DIR$/02 What is JDK, JVM, JRE/JDK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 Skeleton of a Java Program/Skelation.java" beforeDir="false" afterPath="$PROJECT_DIR$/03 Skeleton of a Java Program/Skelation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Primitive Data Types in Java/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/04 Primitive Data Types in Java/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 Properly Name Your Variables/ProperlyName.java" beforeDir="false" afterPath="$PROJECT_DIR$/05 Properly Name Your Variables/ProperlyName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 Become a Math Wiz/BasicMaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/06 Become a Math Wiz/BasicMaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 Bitwise Operators in Java/BitwiseOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/07 Bitwise Operators in Java/BitwiseOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 Println vs Print vs Printf in Java/PrintHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/08 Println vs Print vs Printf in Java/PrintHello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 Java Strings Explained/String/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 Java Strings Explained/String/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 Java Strings Explained/StringBuilder/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/09 Java Strings Explained/StringBuilder/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Java String Methods/StringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/10 Java String Methods/StringMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 Conditional Statements in Java/11 Conditional Statements in Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/11 Conditional Statements in Java/11 Conditional Statements in Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 Conditional Statements in Java/IF Else Switch/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/11 Conditional Statements in Java/IF Else Switch/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 Java Loops Explained/12 Java Loops Explained.iml" beforeDir="false" afterPath="$PROJECT_DIR$/12 Java Loops Explained/12 Java Loops Explained.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 Java Loops Explained/Do While Loop/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/12 Java Loops Explained/Do While Loop/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 Java Loops Explained/For Loop/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/12 Java Loops Explained/For Loop/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 Java Loops Explained/While Loop/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/12 Java Loops Explained/While Loop/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Mastering Java Arrays/13 Mastering Java Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/13 Mastering Java Arrays/13 Mastering Java Arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Mastering Java Arrays/1D Arrays/OneDArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/13 Mastering Java Arrays/1D Arrays/OneDArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Mastering Java Arrays/2D Arrays/TwoDArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/13 Mastering Java Arrays/2D Arrays/TwoDArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 Master OOP in Java/Abstraction/Abstactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/14 Master OOP in Java/Abstraction/Abstactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 Master OOP in Java/Encapsulation/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/14 Master OOP in Java/Encapsulation/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 Master OOP in Java/Encapsulation/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/14 Master OOP in Java/Encapsulation/Cars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 Master OOP in Java/Inheritence/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/14 Master OOP in Java/Inheritence/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 Master OOP in Java/Polymorphism/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/14 Master OOP in Java/Polymorphism/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 Master OOP in Java/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/14 Master OOP in Java/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 Methods in Java/MasterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/15 Methods in Java/MasterMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16 Easiest Way to Learn Recursion/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/16 Easiest Way to Learn Recursion/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/17 Packages and Classpath.iml" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/17 Packages and Classpath.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/animals/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/animals/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/vichles/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/vichles/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/vichles/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/17 Packages and Classpath/Packages/src/com/dotcollege/core/vichles/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18 Encapsulation in Java/Bank/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/18 Encapsulation in Java/Bank/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18 Encapsulation in Java/Encapsulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/18 Encapsulation in Java/Encapsulations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19 Constructors in Java/Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/19 Constructors in Java/Constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20 Inheritance in Java/20 Inheritance in Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/20 Inheritance in Java/20 Inheritance in Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20 Inheritance in Java/Animals/Solutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/20 Inheritance in Java/Animals/Solutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20 Inheritance in Java/Human Multi Level/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/20 Inheritance in Java/Human Multi Level/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20 Inheritance in Java/Multiple Inheritence/Android.java" beforeDir="false" afterPath="$PROJECT_DIR$/20 Inheritance in Java/Multiple Inheritence/Android.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21 Polymorphism in Java/CompileTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/21 Polymorphism in Java/CompileTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21 Polymorphism in Java/RunTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/21 Polymorphism in Java/RunTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22 Abstraction in Java/22 Abstraction in Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/22 Abstraction in Java/22 Abstraction in Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22 Abstraction in Java/Abstraction/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/22 Abstraction in Java/Abstraction/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22 Abstraction in Java/Vehicle/Solutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/22 Abstraction in Java/Vehicle/Solutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 Access Modifiers in Java/23 Access Modifiers in Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/23 Access Modifiers in Java/23 Access Modifiers in Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 Access Modifiers in Java/School/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/23 Access Modifiers in Java/School/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 Access Modifiers in Java/Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/23 Access Modifiers in Java/Test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 Mastering Static in Java/StaticMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/24 Mastering Static in Java/StaticMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25 Mastering the Final Keyword in Java/FinalKeyWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/25 Mastering the Final Keyword in Java/FinalKeyWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26 Mastering Java Interfaces/MasterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/26 Mastering Java Interfaces/MasterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/27 Exploring Inner Classes in Java/InnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/27 Exploring Inner Classes in Java/InnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 Master Exceptions in Java/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/28 Master Exceptions in Java/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 Master Exceptions in Java/FileFound03.java" beforeDir="false" afterPath="$PROJECT_DIR$/28 Master Exceptions in Java/FileFound03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 Master Exceptions in Java/InsufficientFundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/28 Master Exceptions in Java/InsufficientFundsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 Master Exceptions in Java/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/28 Master Exceptions in Java/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 Master Exceptions in Java/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/28 Master Exceptions in Java/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28 Master Exceptions in Java/ThrowsDemo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/28 Master Exceptions in Java/ThrowsDemo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29 Wrapper Classes in Java/WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/29 Wrapper Classes in Java/WrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30 Master Math in Java/MasterMaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/30 Master Math in Java/MasterMaths.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31 Enums in Java/EnumsOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/31 Enums in Java/EnumsOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/32 Java Multithreading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/32 Java Multithreading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/01 Thread Class/Hello1.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/01 Thread Class/Hello1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/02 Implement Runnable/Hello2.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/02 Implement Runnable/Hello2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/Creating Thread.iml" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Creating Thread/Creating Thread.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Interrupt Instruction/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Interrupt Instruction/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Java Locks/MainBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Java Locks/MainBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Java Locks/ReentrantExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Java Locks/ReentrantExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Set Daemon/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Set Daemon/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Thread Cycle/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Thread Cycle/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Thread Interruted/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Thread Interruted/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Thread Priority/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Thread Priority/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Thread Priority/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Thread Priority/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Thread Synchronization/ThreadSynchronization.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Thread Synchronization/ThreadSynchronization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32 Java Multithreading/Yield Method/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/32 Java Multithreading/Yield Method/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33 Volatile Vs Atomic in Java/VolatileAtomics.java" beforeDir="false" afterPath="$PROJECT_DIR$/33 Volatile Vs Atomic in Java/VolatileAtomics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/34 Java Generics Explained.iml" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/34 Java Generics Explained.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/BoxExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/BoxExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/EnumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/EnumExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenericContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenericContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenricConsc.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenricConsc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenricMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/GenricMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/MyNumExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/MyNumExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/PairExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/34 Java Generics Explained/Generic/src/Generics/PairExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/35 Collection Framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/35 Collection Framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/ArrayList/ArrList.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/ArrayList/ArrList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/ArrayList/Comparator/ArrCom.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/ArrayList/Comparator/ArrCom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/ArrayList/Comparator/ComparatorClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/ArrayList/Comparator/ComparatorClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/CopyOnWriteArrayList/CopyOnWriteArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/CopyOnWriteArrayList/CopyOnWriteArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/LinkedList/LinkedLst.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/LinkedList/LinkedLst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/Map/HashMap/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/Map/HashMap/Hash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/Map/HashMap/HashCodeAndEqualsMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/Map/HashMap/HashCodeAndEqualsMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/Map/HashMap/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/Map/HashMap/HashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/Map/LinkedHashMap/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/Map/LinkedHashMap/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/Map/LinkedHashMap/LinkedHashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/Map/LinkedHashMap/LinkedHashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/Stack/StackIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/Stack/StackIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/Vector/ArrListVsVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/Vector/ArrListVsVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 Collection Framework/src/List/Vector/VectorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/35 Collection Framework/src/List/Vector/VectorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/36 Master Java Streams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/36 Master Java Streams.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/Java8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/Java8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/Java8Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/Java8Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/BeforeStreamsBasics/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/CollectorsDemo05.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/CollectorsDemo05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/IntermediateOps02.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/IntermediateOps02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/LazyEvaluationDemo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/LazyEvaluationDemo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/ParallelStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/ParallelStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/PrimitiveStreams06.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/PrimitiveStreams06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/Stream.md" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/Stream.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/StreamDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/StreamDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/TerminalOps03.java" beforeDir="false" afterPath="$PROJECT_DIR$/36 Master Java Streams/Java Streams/src/Streams/TerminalOps03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core Java Mastery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core Java Mastery.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/36 Master Java Streams/BeforeStreamsBasics/Java8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/36 Master Java Streams/BeforeStreamsBasics/Java8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/36 Master Java Streams/BeforeStreamsBasics/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/36 Master Java Streams/BeforeStreamsBasics/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/36 Master Java Streams/Streams/Stream.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/36 Master Java Streams/Streams/Stream.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core Java Mastery/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core Java Mastery/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,42 +195,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BankAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BoxExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileFound.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMapDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hello1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hello2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java8Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MasterInterface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamDemo01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThrowsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.ide.FileNotInSourceRootChecker.no.check&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;S:/Java Mastery/36 Master Java Streams/Java Streams&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrList.executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.BoxExample.executor": "Run",
+    "Application.FileFound.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
+    "Application.Hello1.executor": "Run",
+    "Application.Hello2.executor": "Run",
+    "Application.Java8Demo.executor": "Run",
+    "Application.Main02.executor": "Run",
+    "Application.MasterInterface.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.StreamDemo01.executor": "Run",
+    "Application.ThrowsDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "S:/Java Mastery/36 Master Java Streams/Java Streams",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="S:\Java Mastery\36 Master Java Streams\Java Streams" />
@@ -95,7 +251,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
@@ -142,7 +297,8 @@
       <workItem from="1762102311449" duration="5100000" />
       <workItem from="1762189357890" duration="226000" />
       <workItem from="1762280582598" duration="1109000" />
-      <workItem from="1762366845073" duration="306000" />
+      <workItem from="1762366845073" duration="1214000" />
+      <workItem from="1762475205305" duration="627000" />
     </task>
     <servers />
   </component>

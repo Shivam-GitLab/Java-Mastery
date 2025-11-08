@@ -40,7 +40,6 @@ public class GenricConsc {
         System.out.println("Integer value: " + intBox.getValue());
         System.out.println("Float value: " + floatBox.getValue());
 
-
 //        issues when extend number :
 //        NotGenricBox notGenricBox1 = new NotGenricBox("Sm");
         NotGenricBox notGenricBox2 = new NotGenricBox(1.23);

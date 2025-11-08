@@ -25,18 +25,13 @@ import java.util.*;
 import java.util.function.*;
 /* Collections → Iteration → Functional Interfaces → Lambda → Streams*/
 public class Java8Demo {
-
-
     public static void main(String[] args) {
         // Streams
         // Java 8 --> minimal code, functional programing
         // Java 8 --> lambda expression, Streams, Date & Time API
         // lambda expression => is an anonymous function
         // (no name, no return type, no access modifier)
-
-
         // Thread t1 = new Thread(new Task());
-
         // new Task() Replace with lambda expression
         // lambda expression use for implement functional interface
         /*
@@ -64,7 +59,6 @@ public class Java8Demo {
         System.out.println(" Sum = "+res);
 
         MathOperation subtractOperation = (a, b) -> a - b;
-
         MathOperation multiplyOperation = (a, b) -> a * b;
 //      MathOperation divideOperation = (a, b) -> b != 0 ? a / b : 0;
         MathOperation divideOperation = (a, b) -> a / b;

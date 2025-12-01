@@ -1,3 +1,4 @@
+package Vehicle;
 
 abstract class Vehicle {
 
@@ -22,6 +23,7 @@ class Car extends Vehicle{
     }
 }
 
+
 class Bike extends Vehicle{
     @Override
     public void accelerate(){
@@ -33,7 +35,7 @@ class Bike extends Vehicle{
     }
 }
 
-public class Solutions{
+public class VechileDemo {
     public static void main(String[] args) {
         Vehicle car = new Car();
         car.accelerate();

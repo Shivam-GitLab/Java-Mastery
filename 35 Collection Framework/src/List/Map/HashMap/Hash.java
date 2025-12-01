@@ -1,5 +1,7 @@
 package List.Map.HashMap;
 
+import java.util.Locale;
+
 public class Hash {
     public static void main(String[] args) {
         System.out.println(simpleHash("ABC")); // 8 -> Collision
@@ -7,10 +9,12 @@ public class Hash {
         System.out.println(simpleHash("CDF")); // 5
     }
     public static int simpleHash(String key) {
-        int sum = 0;
+       int sum = 0;
         for (char c : key.toCharArray()) {
             sum += (int) c;
         }
+//        int sum = key.chars().sum();
+
         return sum % 10;
     }
 }

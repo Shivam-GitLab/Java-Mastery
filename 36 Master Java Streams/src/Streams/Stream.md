@@ -4,6 +4,7 @@ This folder contains examples of Java Streams, arranged in a learning sequence f
 
 ## 📚 Learning Order
 
+
 1. **StreamDemo**
     - Basic introduction to Java Streams
     - How to create and use a Stream

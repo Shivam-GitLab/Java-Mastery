@@ -12,6 +12,7 @@ public class Solution {
         String result = "";
         for (int i = 0; i < 1000; i++) {
             result = result + "Hello";
+//            result.append("Hello");
         }
         System.out.println(result);
     }

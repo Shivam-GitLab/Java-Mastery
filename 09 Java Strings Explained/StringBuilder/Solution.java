@@ -10,14 +10,20 @@ public class Solution {
         sb.append(" Ram");
         
         System.out.println(sb);
+
+
         // sb.delete(1, 5); // Start & End Exclusive Not Count End - 1 count
         // Op - H World ! Ram
+
+
        /*
         int s = sb.length();
         System.out.println(s);
         char ch = sb.charAt(8);
         System.out.println(ch);
        */
+
+
         System.out.println(sb);
         sb.insert(1,"Java");
         System.out.println(sb);

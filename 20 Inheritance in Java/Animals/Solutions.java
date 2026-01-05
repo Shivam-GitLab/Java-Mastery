@@ -41,7 +41,9 @@ class Dog extends Animal{
         System.out.println("Woof");
     }
 }
+
 /************************************/
+
 public class Solutions {
     public static void main(String[] args) {
         Dog dog = new  Dog();

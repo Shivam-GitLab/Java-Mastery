@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c651bbb5-5922-4005-807e-b310cb654918" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/20 Inheritance in Java/Animals/Solutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/20 Inheritance in Java/Animals/Solutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +167,8 @@
       <workItem from="1762618712438" duration="237000" />
       <workItem from="1762626315614" duration="93000" />
       <workItem from="1767637314146" duration="90000" />
-      <workItem from="1767637435898" duration="248000" />
+      <workItem from="1767637435898" duration="893000" />
+      <workItem from="1767805734133" duration="435000" />
     </task>
     <servers />
   </component>

@@ -23,7 +23,8 @@ class MyInterfaceImpl implements MyInterface {
     public void displayMessage02() {
         System.out.println("Hello from MyInterface! 02");
     }
-
 }
+
+
 // This code demonstrates the use of interfaces in Java.
 // It defines an interface `MyInterface` with a method `displayMessage`.

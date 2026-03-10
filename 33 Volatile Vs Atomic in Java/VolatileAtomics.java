@@ -8,7 +8,7 @@ public class VolatileAtomics {
     public void incrementAtomic() {
         // atomicCounter.incrementAndGet();
     }
-
+// Remove the AtomicInteger and use volatileCounter for demonstration
     public int getVolatileCounter() {
         return volatileCounter;
     }

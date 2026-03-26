@@ -1,5 +1,6 @@
 public class StringMethod {
     public static void main(String[] args) {
+        // Stri
         System.out.println("String Methods :");
         System.out.println("1. char charAt(int index) : " + "Hello".charAt(1));
         System.out.println("2. int length() : " + "Hello".length());

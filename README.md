@@ -1,6 +1,3 @@
-I'll help you improve the README.md file. Let me first fetch the current file to see its full contents.I can see your README.md is quite minimal. Let me help you improve it! Here's a comprehensive, professional README for your Java-Mastery repository:
-
-```markdown name=README.md url=https://github.com/Shivam-GitLab/Java-Mastery/blob/master/README.md
 # Java Mastery ☕
 
 A comprehensive learning resource for mastering Core Java with a focus on Java 8+ features, Collections Framework, and Generics.

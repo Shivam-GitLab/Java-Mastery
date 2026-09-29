@@ -1,5 +1,6 @@
 public class ProperlyName {
-    public static void main(String[] args) {
+    
+public static void main(String[] args) {
         System.out.println("01. Properly Name Your Variables");
         System.out.println("02. Use meaningful names");
         System.out.println("03. Use camelCase");

@@ -35,6 +35,8 @@ public class Java8Demo {
         // new Task() Replace with lambda expression
         // lambda expression use for implement functional interface
         /*
+
+        
         => Lambda Expression Syntax
           (parameters) -> { body }
           Parameters: Input to the lambda.
